@@ -39,7 +39,7 @@ export default {
       }
     },
     changeCollapse () {
-      // this.$emit('changeCollapse')
+      this.$emit('changeCollapse')
     }
   },
   components: {
